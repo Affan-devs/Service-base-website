@@ -20,4 +20,3 @@ Here’s a  GitHub README file for the Moon project:
 
 ---
 
-This README provides a brief overview and relevant information for a GitHub repository. Let me know if you'd like any changes!
